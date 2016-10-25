@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">SpotNepal</string>
+    <string name="slide_1_desc">The easiest way to find the best spots around</string>
+
+    <string name="slide_2_title">Picnic Spots</string>
+    <string name="slide_2_desc">Find the best picnic spots for your family and friends!</string>
+
+    <string name="slide_3_title">Treking Spots</string>
+    <string name="slide_3_desc">Find the treking spots around</string>
+
+    <string name="slide_4_title">Adventurous Spots</string>
+    <string name="slide_4_desc">Get to know the better Adventurous spots nearby</string>
+    <string name="play_again">Play Again</string>
+</resources>
